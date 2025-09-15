@@ -6,7 +6,6 @@ Tujuan utama dari **Monetify** adalah mengembangkan model *machine learning* ber
 
 Dengan memanfaatkan teknologi AI, Monetify berusaha menjawab tantangan keterbatasan keterampilan seni dan kebutuhan akan karya digital unik, baik untuk penggunaan pribadi, konten media sosial, maupun aset NFT.  
 
----
 
 ## Dataset  
 Dataset yang digunakan berasal dari kompetisi Kaggle:  
@@ -24,7 +23,6 @@ Dataset ini juga tersedia melalui [Google Drive](https://drive.google.com/drive/
 - Format **JPEG** digunakan untuk visualisasi dan eksplorasi manual.  
 - Dataset ini menyediakan pasangan data (foto ↔ Monet) yang ideal untuk melatih *CycleGAN* dalam melakukan *image-to-image translation*.  
 
----
 
 ## Metode  
 
@@ -47,20 +45,17 @@ Dataset ini juga tersedia melalui [Google Drive](https://drive.google.com/drive/
 - **Training**: melatih model dengan pasangan dataset (foto ↔ Monet).  
 - **Evaluasi**: membandingkan kualitas visual hasil transformasi.  
 
----
 
 ## Hasil  
 - Model berhasil mengubah foto biasa menjadi gambar dengan gaya impresionis Claude Monet.  
 - Hasil menunjukkan tekstur, warna, dan pola khas lukisan Monet dapat diaplikasikan pada berbagai jenis foto.  
 - Proyek ini membuktikan bahwa **AI dapat menjadi jembatan antara seni klasik dan era digital modern**.  
 
----
 
 ## Kesimpulan  
 Monetify memperlihatkan potensi besar AI dalam dunia seni digital. Dengan CycleGAN, siapa saja dapat menghasilkan karya artistik tanpa keterampilan melukis manual.  
 Proyek ini tidak hanya relevan untuk pembelajaran akademis, tetapi juga memiliki aplikasi praktis dalam industri kreatif, media sosial, dan pasar NFT.  
 
----
 
 ## Lisensi  
 Proyek ini dibuat untuk keperluan akademik dan dapat digunakan sebagai referensi pembelajaran.  
